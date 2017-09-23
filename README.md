@@ -20,6 +20,8 @@
         * Remote
         * Add / Commit
         * Push / Pull & Fetch
+	    * Merge
+	    * Branch
         * Status
         * Log
         * Rebase
